@@ -1,3 +1,3 @@
-# Simple-ML-Model-on-GKE
+# Deploy-Sample-ML-Model-on-GKE
 
-Deploying a simple Machine Learning model on Google Kubernetes Engine
+Deploying a basic Machine Learning model on Google Kubernetes Engine
